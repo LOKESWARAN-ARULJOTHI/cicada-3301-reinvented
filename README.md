@@ -11,4 +11,8 @@ Features:
 2. Weather of the given location
 3. Market price of every crops
 
-cicada3301reinvented mstc-daiict ieee-mtts-daiict
+Quick Start:
+`export FLASK_APP=app`
+`flask run`
+
+Note: make sure you have Flask in your machine or 'pip install flask' then restart your IDE.
